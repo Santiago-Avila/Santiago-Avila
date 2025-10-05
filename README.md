@@ -13,13 +13,13 @@
 
   <!-- Social Links -->
   <p>
-    <a href="mailto:santiagoavilac@unal.edu.co">
+    <a href="mailto:savilaco@unal.edu.co">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://linkedin.com/in/santiagoavila">
+    <a href="[https://linkedin.com/in/santiagoavila](https://www.linkedin.com/in/santiago-avila-corredor-0141b1259/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/santiagoavilac">
+    <a href="https://github.com/Santiago-Avila">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
